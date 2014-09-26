@@ -1,0 +1,1 @@
+#ifndef TREE_STATS_H#define TREE_STATS_H#include "node.h"#include "memory_koz.h"#include "tree_fns.h"using namespace std;float ConsensusForkIndex(NODE *const , NODE * const, int *);float CollessTreeBalance(NODE *, int *);void CladeRichnessMachine(NODE *, int *, float &);#endif

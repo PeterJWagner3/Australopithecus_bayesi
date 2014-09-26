@@ -1,0 +1,1 @@
+#ifdef Probability	#include <stdlib.h>	#include <stdio.h>	#include <time.h>	#include <math.h>	#include <string.h>	int *PoissonRand(double rate, double time, double precision);	int fact(int a);#else	extern int *PoissonRand(double rate, double time, double precision);	extern int fact(int a);#endif
