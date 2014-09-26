@@ -1,0 +1,1435 @@
+TPaleoMCMC OSX
+v7
+r0
+t432526311.285236
+cCheck dependencies
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/filereading.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixchange.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/memory.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/sort.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/sort.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/more_math.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/more_math.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/historicaldiversity.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/compatibility_functions.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/probability.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixanalysis.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixreading.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/minmax.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/minmax.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_read.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_read.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/stratocladistics.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/MonteCarloPhylogenyFunctions.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_likelihood.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrix.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrix.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/file.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/geography.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/geography.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_evenness.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_evenness.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_fits.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_calc.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/disparityanalyses.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/disparityanalyses.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/infotheory.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/infotheory.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/mcmc.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/optimization.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/nexus_write.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c" normal i386 c com.apple.compilers.gcc.4_2
+cCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/PaleoMCMC.o" /Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c normal i386 c com.apple.compilers.gcc.4_2
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A1198340000000000001538
+t1242667060
+s5432
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+i"syslimits.h"
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/syslimits.h
+c000000004A1195E90000000000000155
+t1242666473
+s341
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c
+c0000000053ED55550000000000097FFC
+t1408062805
+s622588
+i"MonteCarloPhylogenyFunctions.h"
+i"compatibility_functions.h"
+i"historicaldiversity.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"probability.h"
+i"tree_read.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c
+c000000005323088E000000000003BADB
+t1394804878
+s244443
+i<time.h>
+i"compatibility_functions.h"
+i"infotheory.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"MonteCarloPhylogenyFunctions.h"
+i"tree_read.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/disparityanalyses.c
+c0000000052F289C8000000000000932B
+t1391626696
+s37675
+i"disparityanalyses.h"
+i"compatibility_functions.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"MonteCarloPhylogenyFunctions.h"
+i"probability.h"
+i"sort.h"
+i"stratocladistics.h"
+i"tree_read.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c
+c00000000520532180000000000008F32
+t1376072216
+s36658
+i"distribution_calc.h"
+i"matrixanalysis.h"
+i"memory.h"
+i"more_math.h"
+i"probability.h"
+i"sort.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_evenness.c
+c0000000053C462760000000000001D48
+t1405379190
+s7496
+i"distribution_evenness.h"
+i"minmax.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c
+c0000000053C03BF00000000000075C6E
+t1405107184
+s482414
+i<time.h>
+i"distribution_fits.h"
+i"matrixanalysis.h"
+i"matrixreading.h"
+i"minmax.h"
+i"memory.h"
+i"Probability.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c
+c00000000428BD6AC0000000000001B1D
+t1116460716
+s6941
+i"file.h"
+i"memory.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c
+c0000000051DC392500000000000047F9
+t1373387045
+s18425
+i"filereading.h"
+i"memory.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/geography.c
+c000000005228E5FF000000000000088C
+t1378412031
+s2188
+i"geography.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c
+c00000000540DC6670000000000007517
+t1410188903
+s29975
+i"historicaldiversity.h"
+i"memory.h"
+i"minmax.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"sort.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/infotheory.c
+c000000004B672529000000000000274F
+t1265050921
+s10063
+i"infotheory.h"
+i"sort.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrix.c
+c0000000050C24596000000000000345D
+t1354909078
+s13405
+i"matrix.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c
+c0000000053EA47000000000000005A76
+t1407862528
+s23158
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"probability.h"
+i"sort.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c
+c0000000053C326B40000000000004F18
+t1405298356
+s20248
+i"matrixchange.h"
+i"memory.h"
+i<time.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c
+c00000000530E5C790000000000007CAF
+t1393450105
+s31919
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"sort.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c
+c00000000541798B70000000000001958
+t1410832567
+s6488
+i"mcmc.h"
+i"memory.h"
+i"minmax.h"
+i"probability.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c
+c00000000523C89600000000000004610
+t1379699040
+s17936
+i"memory.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/minmax.c
+c0000000053D136B30000000000001EB6
+t1406219955
+s7862
+i"minmax.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/more_math.c
+c0000000050328D640000000000000D6D
+t1345490276
+s3437
+i"more_math.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c
+c00000000541385760000000000000DCD
+t1410565494
+s3533
+i"nexus_write.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+i<limits.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c
+c00000000487D04CF00000000000108FC
+t1216152783
+s67836
+i"optimization.h"
+i"memory.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"minmax.h"
+i"sort.h"
+i"tree_read.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c
+c0000000054120DE00000000000006DA8
+t1410469344
+s28072
+i"probability.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"memory.h"
+i<math.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<time.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/sort.c
+c0000000053E919760000000000007756
+t1407785334
+s30550
+i"sort.h"
+i"memory.h"
+i<limits.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c
+c0000000054174C29000000000003912E
+t1410812969
+s233774
+i"compatibility_functions.h"
+i"disparityanalyses.h"
+i"historicaldiversity.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"MonteCarloPhylogenyFunctions.h"
+i"optimization.h"
+i"sort.h"
+i"stratocladistics.h"
+i"tree_read.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c
+c0000000050F44AA0000000000000535A
+t1358187168
+s21338
+i"tree_likelihood.h"
+i"probability.h"
+i"memory.h"
+i"sort.h"
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_read.c
+c00000000541353B20000000000009D84
+t1410552754
+s40324
+i"tree_read.h"
+i"filereading.h"
+i"memory.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"minmax.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c
+c0000000054179C5F0000000000001660
+t1410833503
+s5728
+i"PaleoMCMC.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.h
+c0000000054173A96000000000000054E
+t1410808470
+s1358
+i<math.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<time.h>
+i"compatibility_functions.h"
+i"distribution_calc.h"
+i"distribution_evenness.h"
+i"distribution_fits.h"
+i"file.h"
+i"filereading.h"
+i"geography.h"
+i"historicaldiversity.h"
+i"infotheory.h"
+i"matrix.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"mcmc.h"
+i"memory.h"
+i"minmax.h"
+i"MonteCarloPhylogenyFunctions.h"
+i"more_math.h"
+i"nexus_write.h"
+i"probability.h"
+i"sort.h"
+i"stratocladistics.h"
+i"tree_read.h"
+i"tree_likelihood.h"
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/Module Tester OSX.app
+t1410802200
+s102
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/Module Tester OSX.app/Contents/MacOS/Module Tester OSX
+t1410802200
+s1955932
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/Module Tester OSX.LinkFileList
+c0000000054179C610000000000001062
+t1410833505
+s4194
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/MonteCarloPhylogenyFunctions.o
+t1410833510
+s362196
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/PaleoMCMC.o
+t2
+s0
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/compatibility_functions.o
+t1410833507
+s158268
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/disparityanalyses.o
+t1410833511
+s35420
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_calc.o
+t1410833510
+s27724
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_evenness.o
+t1410833508
+s8128
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_fits.o
+t1410833510
+s294392
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/file.o
+t1410833508
+s11520
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/filereading.o
+t1410833505
+s16732
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/geography.o
+t1410833508
+s4560
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/historicaldiversity.o
+t1410833506
+s39024
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/infotheory.o
+t1410833510
+s8432
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrix.o
+t1410833508
+s14152
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixanalysis.o
+t1410833506
+s21488
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixchange.o
+t1410833505
+s20428
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixreading.o
+t1410833506
+s25920
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/mcmc.o
+t2
+s0
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/memory.o
+t1410833505
+s17696
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/minmax.o
+t1410833506
+s9620
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/more_math.o
+t1410833505
+s6580
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/nexus_write.o
+t1410833511
+s6216
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/optimization.o
+t1410833511
+s39636
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/probability.o
+t1410833506
+s29432
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/sort.o
+t1410833505
+s30268
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/stratocladistics.o
+t1410833508
+s141824
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_likelihood.o
+t1410833508
+s16072
+
+N/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_read.o
+t1410833507
+s30356
+
+N/Users/peterwagner/Documents/Projects/common source/MonteCarloPhylogenyFunctions.h
+c0000000053ED47DE0000000000003ABA
+t1408059358
+s15034
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"probability.h"
+i"tree_read.h"
+i"stratocladistics.h"
+
+N/Users/peterwagner/Documents/Projects/common source/compatibility_functions.h
+c0000000051B9E9460000000000002F59
+t1371138374
+s12121
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+i"distribution_fits.h"
+i"filereading.h"
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"matrixreading.h"
+i"memory.h"
+i"minmax.h"
+i"MonteCarloPhylogenyFunctions.h"
+i"tree_read.h"
+
+N/Users/peterwagner/Documents/Projects/common source/disparityanalyses.h
+c0000000052F2892C0000000000000C5D
+t1391626540
+s3165
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/common source/distribution_calc.h
+c0000000051D485110000000000001AF3
+t1372882193
+s6899
+i<float.h>
+i<limits.h>
+i<math.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<time.h>
+i"memory.h"
+i"sort.h"
+i"probability.h"
+
+N/Users/peterwagner/Documents/Projects/common source/distribution_evenness.h
+c0000000053BD7A130000000000000E1F
+t1404926483
+s3615
+i<math.h>
+i<stdlib.h>
+i<math.h>
+i<float.h>
+i<stdlib.h>
+i<stdio.h>
+i"matrixanalysis.h"
+i"matrixchange.h"
+i"memory.h"
+i"sort.h"
+
+N/Users/peterwagner/Documents/Projects/common source/distribution_fits.h
+c0000000051D484F0000000000000468B
+t1372882160
+s18059
+i<math.h>
+i<float.h>
+i<stdlib.h>
+i<stdio.h>
+i"matrixchange.h"
+i"memory.h"
+i"sort.h"
+i"distribution_calc.h"
+i"historicaldiversity.h"
+
+N/Users/peterwagner/Documents/Projects/common source/file.h
+c00000000428BD6B70000000000000350
+t1116460727
+s848
+i<stdio.h>
+i<math.h>
+i<string.h>
+i<limits.h>
+i"memory.h"
+
+N/Users/peterwagner/Documents/Projects/common source/filereading.h
+c0000000051DC35420000000000000A63
+t1373386050
+s2659
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+i"memory.h"
+
+N/Users/peterwagner/Documents/Projects/common source/geography.h
+c000000005220E38800000000000003BA
+t1377887112
+s954
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i"memory.h"
+
+N/Users/peterwagner/Documents/Projects/common source/historicaldiversity.h
+c00000000540DC6450000000000001CAB
+t1410188869
+s7339
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i"memory.h"
+
+N/Users/peterwagner/Documents/Projects/common source/infotheory.h
+c0000000050537B580000000000000350
+t1347648344
+s848
+i"memory.h"
+i"matrixchange.h"
+i<math.h>
+i<float.h>
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/peterwagner/Documents/Projects/common source/matrix.h
+c00000000428B540D00000000000009A9
+t1116427277
+s2473
+i<stdio.h>
+i<math.h>
+i<limits.h>
+i<string.h>
+i"memory.h"
+i"sort.h"
+
+N/Users/peterwagner/Documents/Projects/common source/matrixanalysis.h
+c0000000053E91A1500000000000013CF
+t1407785493
+s5071
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/common source/matrixchange.h
+c0000000053C326D400000000000013EB
+t1405298388
+s5099
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/common source/matrixreading.h
+c00000000530E5C860000000000001B34
+t1393450118
+s6964
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/common source/mcmc.h
+c00000000541713CE000000000000039E
+t1410798542
+s926
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+i"probability.h"
+
+N/Users/peterwagner/Documents/Projects/common source/memory.h
+c00000000516F30E200000000000014E7
+t1366241506
+s5351
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/common source/minmax.h
+c0000000053D1367D00000000000008B8
+t1406219901
+s2232
+
+N/Users/peterwagner/Documents/Projects/common source/more_math.h
+c0000000050328A64000000000000039E
+t1345489508
+s926
+i<stdlib.h>
+i<math.h>
+i<limits.h>
+
+N/Users/peterwagner/Documents/Projects/common source/nexus_write.h
+c0000000047DEB4E900000000000002CD
+t1205777641
+s717
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+i<limits.h>
+
+N/Users/peterwagner/Documents/Projects/common source/optimization.h
+c00000000487D04C900000000000010C9
+t1216152777
+s4297
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+N/Users/peterwagner/Documents/Projects/common source/probability.h
+c0000000054120CE80000000000001377
+t1410469096
+s4983
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/common source/sort.h
+c0000000053E914A4000000000000161A
+t1407784100
+s5658
+i<limits.h>
+
+N/Users/peterwagner/Documents/Projects/common source/stratocladistics.h
+c0000000054173EBA0000000000003765
+t1410809530
+s14181
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i"matrixreading.h"
+i"memory.h"
+i"sort.h"
+
+N/Users/peterwagner/Documents/Projects/common source/tree_likelihood.h
+c0000000050F44AD50000000000000CFE
+t1358187221
+s3326
+i<stdlib.h>
+i<stdio.h>
+i<time.h>
+i<math.h>
+i<string.h>
+
+N/Users/peterwagner/Documents/Projects/common source/tree_read.h
+c00000000541351E0000000000000114B
+t1410552288
+s4427
+i"memory.h"
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+
+N/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/usr/include/time.h
+c000000004A5C14A7000000000000178E
+t1247548583
+s6030
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies432526304#432526305#0(0"0(0#1#0"4261848#0"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/MonteCarloPhylogenyFunctions.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526307.332855
+e432526310.582604
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/MonteCarloPhylogenyFunctions.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetree':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:45: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreeVenn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:804: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolveunsampledbranches':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:1574: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: At top level:
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:6295: warning: no previous prototype for 'getfossilparams'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreePois':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:7786: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreeprop':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:8335: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreematchrecord':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:8682: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolveXsteps':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:10644: warning: unused variable 'maxtrial'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetocompatdeltalite':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:10924: warning: unused variable 'mxdp'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreelogistic':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:11254: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetree_molecular':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:13468: warning: unused variable 'novelty'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:13461: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvestepstallycompat':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14307: warning: unused variable 'bstdelt'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14307: warning: unused variable 'bstcmp'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14306: warning: unused variable 'mxdp'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecladoshift':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14633: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: At top level:
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:15426: warning: no previous prototype for 'evolvetreecladoshiftfull'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecladoshiftfull':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:15427: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecoupledlogistic':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:16235: warning: unused variable 'base'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecoupledlogistic2':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:17138: warning: unused variable 'base'
+lSLF07#2@103"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c432526307#432526310#0(4956"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetree':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:45: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreeVenn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:804: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolveunsampledbranches':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:1574: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: At top level:/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:6295: warning: no previous prototype for 'getfossilparams'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreePois':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:7786: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreeprop':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:8335: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreematchrecord':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:8682: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolveXsteps':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:10644: warning: unused variable 'maxtrial'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetocompatdeltalite':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:10924: warning: unused variable 'mxdp'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreelogistic':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:11254: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetree_molecular':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:13468: warning: unused variable 'novelty'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:13461: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvestepstallycompat':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14307: warning: unused variable 'bstdelt'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14307: warning: unused variable 'bstcmp'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14306: warning: unused variable 'mxdp'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecladoshift':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:14633: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: At top level:/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:15426: warning: no previous prototype for 'evolvetreecladoshiftfull'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecladoshiftfull':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:15427: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecoupledlogistic':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:16235: warning: unused variable 'base'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c: In function 'evolvetreecoupledlogistic2':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c:17138: warning: unused variable 'base'22(22@22"Unused variable 'base'432526307#123#132#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#45#0#45#0#19"unused variable '*'0(22@22"Unused variable 'base'432526307#382#133#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#804#0#804#0#19"unused variable '*'0(22@22"Unused variable 'base'432526307#651#134#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#1574#0#1574#0#19"unused variable '*'0(23@13"At top level:432526308#785#111#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#0#0#0#0#0"0(22@43"No previous prototype for 'getfossilparams'432526308#896#155#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#6295#0#6295#0#29"no previous prototype for '*'0(22@22"Unused variable 'base'432526308#1178#134#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#7786#0#7786#0#19"unused variable '*'0(22@22"Unused variable 'base'432526308#1439#134#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#8335#0#8335#0#19"unused variable '*'0(22@22"Unused variable 'base'432526308#1707#134#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#8682#0#8682#0#19"unused variable '*'0(22@26"Unused variable 'maxtrial'432526309#1966#139#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#10644#0#10644#0#19"unused variable '*'0(22@22"Unused variable 'mxdp'432526309#2241#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#10924#0#10924#0#19"unused variable '*'0(22@22"Unused variable 'base'432526309#2507#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#11254#0#11254#0#19"unused variable '*'0(22@25"Unused variable 'novelty'432526309#2775#138#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#13468#0#13468#0#19"unused variable '*'0(22@22"Unused variable 'base'432526309#2913#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#13461#0#13461#0#19"unused variable '*'0(22@25"Unused variable 'bstdelt'432526309#3183#138#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#14307#0#14307#0#19"unused variable '*'0(22@24"Unused variable 'bstcmp'432526309#3321#137#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#14307#0#14307#0#19"unused variable '*'0(22@22"Unused variable 'mxdp'432526309#3458#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#14306#0#14306#0#19"unused variable '*'0(22@22"Unused variable 'base'432526309#3726#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#14633#0#14633#0#19"unused variable '*'0(23@13"At top level:432526310#3861#111#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#0#0#0#0#0"0(22@52"No previous prototype for 'evolvetreecladoshiftfull'432526310#3972#165#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#15426#0#15426#0#29"no previous prototype for '*'0(22@22"Unused variable 'base'432526310#4274#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#15427#0#15427#0#19"unused variable '*'0(22@22"Unused variable 'base'432526310#4547#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#16235#0#16235#0#19"unused variable '*'0(22@22"Unused variable 'base'432526310#4821#135#0(6@95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c429755605#17138#0#17138#0#19"unused variable '*'0(0#0#95"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c2441712112#1770"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/MonteCarloPhylogenyFunctions.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/MonteCarloPhylogenyFunctions.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/PaleoMCMC.o" /Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c normal i386 c com.apple.compilers.gcc.4_2
+s432526311.100834
+e432526311.102534
+r0
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/PaleoMCMC.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c432526311#432526311#0(758"cc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap: not a directorycc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap: not a directorycc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap: not a directorycc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap: not a directory4(4@178"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap: not a directory432526311#0#191#0(6@0"432526311#0#0#0#0#0"0(4@178"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap: not a directory432526311#191#191#0(6@0"432526311#0#0#0#0#0"0(4@175"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap: not a directory432526311#382#188#0(6@0"432526311#0#0#0#0#0"0(4@175"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap: not a directory432526311#570#188#0(6@0"432526311#0#0#0#0#0"0(0#0#59"/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c2441712112#1713"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c /Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/PaleoMCMC.o"1#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/compatibility_functions.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526305.984242
+e432526307.332732
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/compatibility_functions.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c: In function 'likelyvarratesremainder':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c:4712: warning: format '%s' expects type 'char *', but argument 2 has type 'char (*)[100]'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c: In function 'likelyvarratesremainderinap':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c:5309: warning: format '%s' expects type 'char *', but argument 2 has type 'char (*)[100]'
+lSLF07#2@98"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c432526305#432526307#0(628"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c: In function 'likelyvarratesremainder':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c:4712: warning: format '%s' expects type 'char *', but argument 2 has type 'char (*)[100]'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c: In function 'likelyvarratesremainderinap':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c:5309: warning: format '%s' expects type 'char *', but argument 2 has type 'char (*)[100]'2(22@74"Format '%s' expects type 'char *', but argument 2 has type 'char (*)[100]'432526306#131#181#0(6@90"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c416497678#4712#0#4712#0#56"format '*' expects type '*', but argument * has type '*'0(22@74"Format '%s' expects type 'char *', but argument 2 has type 'char (*)[100]'432526307#447#181#0(6@90"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c416497678#5309#0#5309#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#90"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c2441712112#1760"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/compatibility_functions.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/compatibility_functions.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/disparityanalyses.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/disparityanalyses.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526310.681947
+e432526311.013117
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/disparityanalyses.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/disparityanalyses.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/disparityanalyses.c432526310#432526311#0(0"0(0#0#84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/disparityanalyses.c2441712112#1748"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/disparityanalyses.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/disparityanalyses.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_calc.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526310.582797
+e432526310.816047
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_calc.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:330: warning: no previous prototype for 'proportional_lgn_distribution_old2'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: In function 'proportional_lgn_distribution_old2':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:334: warning: unused variable 'lttl'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:334: warning: unused variable 'ttl'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:334: warning: unused variable 'rnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:332: warning: unused variable 'spar'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:331: warning: unused variable 's'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: At top level:
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:329: warning: unused parameter 'trunc'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:329: warning: unused parameter 'mode'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:438: warning: no previous prototype for 'proportional_lgn_distribution_old'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: In function 'proportional_lgn_distribution_old':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:442: warning: unused variable 'rnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:439: warning: unused variable 'd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: In function 'draw_lgn_octaves':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:569: warning: unused variable 'rnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:566: warning: unused variable 'd'
+lSLF07#2@92"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c432526310#432526310#0(2144"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:330: warning: no previous prototype for 'proportional_lgn_distribution_old2'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: In function 'proportional_lgn_distribution_old2':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:334: warning: unused variable 'lttl'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:334: warning: unused variable 'ttl'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:334: warning: unused variable 'rnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:332: warning: unused variable 'spar'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:331: warning: unused variable 's'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: At top level:/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:329: warning: unused parameter 'trunc'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:329: warning: unused parameter 'mode'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:438: warning: no previous prototype for 'proportional_lgn_distribution_old'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: In function 'proportional_lgn_distribution_old':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:442: warning: unused variable 'rnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:439: warning: unused variable 'd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c: In function 'draw_lgn_octaves':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:569: warning: unused variable 'rnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c:566: warning: unused variable 'd'14(22@62"No previous prototype for 'proportional_lgn_distribution_old2'432526310#0#162#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#330#0#330#0#29"no previous prototype for '*'0(22@22"Unused variable 'lttl'432526310#298#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#334#0#334#0#19"unused variable '*'0(22@21"Unused variable 'ttl'432526310#420#121#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#334#0#334#0#19"unused variable '*'0(22@21"Unused variable 'rnd'432526310#541#121#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#334#0#334#0#19"unused variable '*'0(22@22"Unused variable 'spar'432526310#662#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#332#0#332#0#19"unused variable '*'0(22@19"Unused variable 's'432526310#784#119#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#331#0#331#0#19"unused variable '*'0(23@13"At top level:432526310#903#100#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#0#0#0#0#0"0(22@24"Unused parameter 'trunc'432526310#1003#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#329#0#329#0#20"unused parameter '*'0(22@23"Unused parameter 'mode'432526310#1127#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#329#0#329#0#20"unused parameter '*'0(22@61"No previous prototype for 'proportional_lgn_distribution_old'432526310#1250#161#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#438#0#438#0#29"no previous prototype for '*'0(22@21"Unused variable 'rnd'432526310#1546#121#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#442#0#442#0#19"unused variable '*'0(22@19"Unused variable 'd'432526310#1667#119#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#439#0#439#0#19"unused variable '*'0(22@21"Unused variable 'rnd'432526310#1904#121#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#569#0#569#0#19"unused variable '*'0(22@19"Unused variable 'd'432526310#2025#119#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c397765016#566#0#566#0#19"unused variable '*'0(0#0#84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c2441712112#1748"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_calc.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_calc.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_evenness.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_evenness.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526308.667080
+e432526308.783158
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_evenness.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_evenness.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_evenness.c432526308#432526308#0(0"0(0#0#88"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_evenness.c2441712112#1756"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_evenness.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_evenness.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_fits.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526308.783284
+e432526310.680407
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_fits.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_uni':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:143: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:277: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_geos':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:448: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_zipf':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:698: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:697: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_lgn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:969: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:964: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_lnt':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1253: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1243: warning: unused variable 'z'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1242: warning: unused variable 'y'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1239: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_zsm_exact':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2357: warning: unused variable 'i'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2444: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_unif':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2549: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_geos':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2636: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_zipf':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2877: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_lgn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3120: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_zsm':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3383: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3382: warning: unused variable 'r'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_uni':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3733: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3872: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_geos':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4016: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_zipf':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4271: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4270: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_lgn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4535: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4530: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_lnt':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4812: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4802: warning: unused variable 'z'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4801: warning: unused variable 'y'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4798: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_unif':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:5931: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6026: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_geos':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6118: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_zipf':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6360: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_lgn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6596: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_zsm':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6845: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6844: warning: unused variable 'r'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'wht_fit_gs':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6962: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'wht_fit_zm':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7071: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'wht_fit_lnt':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7192: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'expfindsfromexpind':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7624: warning: unused variable 'S'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'richness_support_bars_mul_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7835: warning: unused variable 'k'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_zipf_full':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9014: warning: unused variable 'mei'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9005: warning: unused variable 'mtaxa'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9004: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_lgn_full':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9224: warning: unused variable 'mei'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9215: warning: unused variable 'mtaxa'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9214: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_uni':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9732: warning: format '%d' expects type 'int', but argument 2 has type 'double'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9680: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9825: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_lgn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10002: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9997: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_zipf':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10293: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10292: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_onepgamma':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10563: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10562: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_uni':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10878: warning: format '%d' expects type 'int', but argument 2 has type 'double'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10826: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10971: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_lgn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11236: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11231: warning: unused variable 'mxs'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_Zipf':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11626: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11621: warning: unused variable 'mxs'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_gammaone':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11982: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11977: warning: unused variable 'mxs'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_Pois_uni':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12369: warning: format '%d' expects type 'int', but argument 2 has type 'double'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12320: warning: unused variable 'mxr'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_Pois_geo':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12489: warning: unused variable 'unqfnd'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_Pois_lgn':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12747: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12742: warning: unused variable 'mxs'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'mul_lgn_at_set_S_occur':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:13208: warning: unused variable 'mxev'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:13203: warning: unused variable 'mxs'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'mul_geo_at_set_S_occur':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:13449: warning: unused variable 'unqfnd'
+lSLF07#2@92"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c432526308#432526310#0(14965"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_uni':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:143: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:277: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_geos':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:448: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_zipf':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:698: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:697: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_lgn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:969: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:964: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_lnt':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1253: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1243: warning: unused variable 'z'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1242: warning: unused variable 'y'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:1239: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_mul_zsm_exact':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2357: warning: unused variable 'i'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2444: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_unif':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2549: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_geos':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2636: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_zipf':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:2877: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_lgn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3120: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_zsm':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3383: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3382: warning: unused variable 'r'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_uni':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3733: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:3872: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_geos':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4016: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_zipf':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4271: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4270: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_lgn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4535: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4530: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'count_fit_poi_lnt':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4812: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4802: warning: unused variable 'z'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4801: warning: unused variable 'y'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:4798: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_unif':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:5931: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6026: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_geos':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6118: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_zipf':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6360: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_lgn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6596: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_poi_zsm':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6845: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6844: warning: unused variable 'r'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'wht_fit_gs':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:6962: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'wht_fit_zm':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7071: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'wht_fit_lnt':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7192: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'expfindsfromexpind':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7624: warning: unused variable 'S'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'richness_support_bars_mul_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:7835: warning: unused variable 'k'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_zipf_full':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9014: warning: unused variable 'mei'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9005: warning: unused variable 'mtaxa'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9004: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'support_bars_mul_lgn_full':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9224: warning: unused variable 'mei'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9215: warning: unused variable 'mtaxa'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9214: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_uni':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9732: warning: format '%d' expects type 'int', but argument 2 has type 'double'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9680: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9825: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_lgn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10002: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:9997: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_zipf':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10293: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10292: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'occurrence_fit_mul_onepgamma':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10563: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10562: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_uni':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10878: warning: format '%d' expects type 'int', but argument 2 has type 'double'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10826: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:10971: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_lgn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11236: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11231: warning: unused variable 'mxs'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_Zipf':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11626: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11621: warning: unused variable 'mxs'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_mul_gammaone':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11982: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:11977: warning: unused variable 'mxs'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_Pois_uni':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12369: warning: format '%d' expects type 'int', but argument 2 has type 'double'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12320: warning: unused variable 'mxr'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_Pois_geo':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12489: warning: unused variable 'unqfnd'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'rate_fit_Pois_lgn':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12747: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:12742: warning: unused variable 'mxs'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'mul_lgn_at_set_S_occur':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:13208: warning: unused variable 'mxev'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:13203: warning: unused variable 'mxs'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c: In function 'mul_geo_at_set_S_occur':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c:13449: warning: unused variable 'unqfnd'74(22@24"Unused variable 'unqfnd'432526308#119#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#143#0#143#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526308#362#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#277#0#277#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526308#606#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#448#0#448#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526308#850#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#698#0#698#0#19"unused variable '*'0(22@21"Unused variable 'mxr'432526308#974#121#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#697#0#697#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526308#1214#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#969#0#969#0#19"unused variable '*'0(22@21"Unused variable 'mxr'432526308#1336#121#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#964#0#964#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526308#1576#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#1253#0#1253#0#19"unused variable '*'0(22@19"Unused variable 'z'432526308#1699#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#1243#0#1243#0#19"unused variable '*'0(22@19"Unused variable 'y'432526308#1819#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#1242#0#1242#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526308#1939#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#1239#0#1239#0#19"unused variable '*'0(22@19"Unused variable 'i'432526309#2189#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#2357#0#2357#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#2431#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#2444#0#2444#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#2679#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#2549#0#2549#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#2927#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#2636#0#2636#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#3175#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#2877#0#2877#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#3422#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#3120#0#3120#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#3669#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#3383#0#3383#0#19"unused variable '*'0(22@19"Unused variable 'r'432526309#3794#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#3382#0#3382#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#4033#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#3733#0#3733#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#4277#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#3872#0#3872#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#4522#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4016#0#4016#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#4767#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4271#0#4271#0#19"unused variable '*'0(22@21"Unused variable 'mxr'432526309#4892#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4270#0#4270#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526309#5133#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4535#0#4535#0#19"unused variable '*'0(22@21"Unused variable 'mxr'432526309#5256#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4530#0#4530#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526309#5497#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4812#0#4812#0#19"unused variable '*'0(22@19"Unused variable 'z'432526309#5620#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4802#0#4802#0#19"unused variable '*'0(22@19"Unused variable 'y'432526309#5740#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4801#0#4801#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#5860#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#4798#0#4798#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#6108#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#5931#0#5931#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#6355#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#6026#0#6026#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#6603#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#6118#0#6118#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#6851#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#6360#0#6360#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#7098#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#6596#0#6596#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#7345#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#6845#0#6845#0#19"unused variable '*'0(22@19"Unused variable 'r'432526309#7470#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#6844#0#6844#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#7702#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#6962#0#6962#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#7939#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#7071#0#7071#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#8177#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#7192#0#7192#0#19"unused variable '*'0(22@19"Unused variable 'S'432526309#8422#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#7624#0#7624#0#19"unused variable '*'0(22@19"Unused variable 'k'432526309#8673#120#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#7835#0#7835#0#19"unused variable '*'0(22@21"Unused variable 'mei'432526309#8921#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9014#0#9014#0#19"unused variable '*'0(22@23"Unused variable 'mtaxa'432526309#9043#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9005#0#9005#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526309#9167#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9004#0#9004#0#19"unused variable '*'0(22@21"Unused variable 'mei'432526310#9419#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9224#0#9224#0#19"unused variable '*'0(22@23"Unused variable 'mtaxa'432526310#9541#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9215#0#9215#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526310#9665#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9214#0#9214#0#19"unused variable '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'double'432526310#9914#165#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9732#0#9732#0#56"format '*' expects type '*', but argument * has type '*'0(22@21"Unused variable 'mxr'432526310#10079#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9680#0#9680#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526310#10325#125#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9825#0#9825#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526310#10574#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10002#0#10002#0#19"unused variable '*'0(22@21"Unused variable 'mxr'432526310#10698#122#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#9997#0#9997#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526310#10945#126#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10293#0#10293#0#19"unused variable '*'0(22@21"Unused variable 'mxr'432526310#11071#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10292#0#10292#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526310#11324#126#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10563#0#10563#0#19"unused variable '*'0(22@21"Unused variable 'mxr'432526310#11450#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10562#0#10562#0#19"unused variable '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'double'432526310#11691#166#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10878#0#10878#0#56"format '*' expects type '*', but argument * has type '*'0(22@21"Unused variable 'mxr'432526310#11857#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10826#0#10826#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526310#12098#126#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#10971#0#10971#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526310#12342#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#11236#0#11236#0#19"unused variable '*'0(22@21"Unused variable 'mxs'432526310#12466#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#11231#0#11231#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526310#12708#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#11626#0#11626#0#19"unused variable '*'0(22@21"Unused variable 'mxs'432526310#12832#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#11621#0#11621#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526310#13078#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#11982#0#11982#0#19"unused variable '*'0(22@21"Unused variable 'mxs'432526310#13202#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#11977#0#11977#0#19"unused variable '*'0(22@64"Format '%d' expects type 'int', but argument 2 has type 'double'432526310#13444#166#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#12369#0#12369#0#56"format '*' expects type '*', but argument * has type '*'0(22@21"Unused variable 'mxr'432526310#13610#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#12320#0#12320#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526310#13852#126#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#12489#0#12489#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526310#14097#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#12747#0#12747#0#19"unused variable '*'0(22@21"Unused variable 'mxs'432526310#14221#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#12742#0#12742#0#19"unused variable '*'0(22@22"Unused variable 'mxev'432526310#14468#124#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#13208#0#13208#0#19"unused variable '*'0(22@21"Unused variable 'mxs'432526310#14592#123#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#13203#0#13203#0#19"unused variable '*'0(22@24"Unused variable 'unqfnd'432526310#14839#126#0(6@84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c426799984#13449#0#13449#0#19"unused variable '*'0(0#0#84"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c2441712112#1748"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/distribution_fits.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/distribution_fits.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/file.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526308.485004
+e432526308.601732
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/file.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c: In function 'ul_readdata':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c:84: warning: format '%d' expects type 'int *', but argument 3 has type 'long unsigned int *'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c: In function 'd_readdata':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c:121: warning: format '%d' expects type 'int *', but argument 3 has type 'double *'
+lSLF07#2@79"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c432526308#432526308#0(519"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c: In function 'ul_readdata':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c:84: warning: format '%d' expects type 'int *', but argument 3 has type 'long unsigned int *'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c: In function 'd_readdata':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c:121: warning: format '%d' expects type 'int *', but argument 3 has type 'double *'2(22@79"Format '%d' expects type 'int *', but argument 3 has type 'long unsigned int *'432526308#100#165#0(6@71"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c138153516#84#0#84#0#56"format '*' expects type '*', but argument * has type '*'0(22@68"Format '%d' expects type 'int *', but argument 3 has type 'double *'432526308#364#155#0(6@71"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c138153516#121#0#121#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#71"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c2441712112#1722"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/file.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/file.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/filereading.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526305.036334
+e432526305.526085
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/filereading.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'readlmatrix':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:299: warning: format '%i' expects type 'int *', but argument 3 has type 'long int *'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'readlvectorcol':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:497: warning: format '%i' expects type 'int *', but argument 3 has type 'long int *'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'readulvectorcol':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:523: warning: format '%i' expects type 'int *', but argument 3 has type 'long unsigned int *'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'getuldataforvectorA':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:818: warning: format '%i' expects type 'int *', but argument 3 has type 'long unsigned int *'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: At top level:
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:807: warning: unused parameter 'A'
+lSLF07#2@86"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c432526305#432526305#0(1325"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'readlmatrix':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:299: warning: format '%i' expects type 'int *', but argument 3 has type 'long int *'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'readlvectorcol':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:497: warning: format '%i' expects type 'int *', but argument 3 has type 'long int *'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'readulvectorcol':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:523: warning: format '%i' expects type 'int *', but argument 3 has type 'long unsigned int *'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: In function 'getuldataforvectorA':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:818: warning: format '%i' expects type 'int *', but argument 3 has type 'long unsigned int *'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c: At top level:/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c:807: warning: unused parameter 'A'6(22@70"Format '%i' expects type 'int *', but argument 3 has type 'long int *'432526305#107#164#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c395079845#299#0#299#0#56"format '*' expects type '*', but argument * has type '*'0(22@70"Format '%i' expects type 'int *', but argument 3 has type 'long int *'432526305#381#164#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c395079845#497#0#497#0#56"format '*' expects type '*', but argument * has type '*'0(22@79"Format '%i' expects type 'int *', but argument 3 has type 'long unsigned int *'432526305#656#173#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c395079845#523#0#523#0#56"format '*' expects type '*', but argument * has type '*'0(22@79"Format '%i' expects type 'int *', but argument 3 has type 'long unsigned int *'432526305#944#173#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c395079845#818#0#818#0#56"format '*' expects type '*', but argument * has type '*'0(23@13"At top level:432526305#1117#94#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c395079845#0#0#0#0#0"0(22@20"Unused parameter 'A'432526305#1211#114#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c395079845#807#0#807#0#20"unused parameter '*'0(0#0#78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c4261848#1736"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/filereading.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/filereading.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/geography.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/geography.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526308.601850
+e432526308.666865
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/geography.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/geography.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/geography.c432526308#432526308#0(0"0(0#0#76"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/geography.c2441712112#1732"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/geography.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/geography.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/historicaldiversity.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526305.778471
+e432526306.104645
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/historicaldiversity.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c: In function 'chaosharedUV':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumYiOne'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumXiOne'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumYi'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumXi'
+lSLF07#2@94"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c432526305#432526306#0(622"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c: In function 'chaosharedUV':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumYiOne'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumXiOne'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumYi'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c:661: warning: unused variable 'sumXi'4(22@26"Unused variable 'sumYiOne'432526305#116#128#0(6@86"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c431881703#661#0#661#0#19"unused variable '*'0(22@26"Unused variable 'sumXiOne'432526305#244#128#0(6@86"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c431881703#661#0#661#0#19"unused variable '*'0(22@23"Unused variable 'sumYi'432526305#372#125#0(6@86"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c431881703#661#0#661#0#19"unused variable '*'0(22@23"Unused variable 'sumXi'432526305#497#125#0(6@86"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c431881703#661#0#661#0#19"unused variable '*'0(0#0#86"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c2441712112#1752"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/historicaldiversity.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/historicaldiversity.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/infotheory.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/infotheory.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526310.816179
+e432526310.919691
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/infotheory.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/infotheory.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/infotheory.c432526310#432526310#0(0"0(0#0#77"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/infotheory.c2441712112#1734"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/infotheory.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/infotheory.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrix.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrix.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526308.352677
+e432526308.484885
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrix.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrix.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrix.c432526308#432526308#0(0"0(0#0#73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrix.c2441712112#1726"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrix.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrix.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixanalysis.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526306.333077
+e432526306.530026
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixanalysis.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c:553: warning: unused parameter 'miss'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c:553: warning: unused parameter 'gap'
+lSLF07#2@89"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c432526306#432526306#0(239"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c:553: warning: unused parameter 'miss'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c:553: warning: unused parameter 'gap'2(22@23"Unused parameter 'miss'432526306#0#120#0(6@81"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c429555328#553#0#553#0#20"unused parameter '*'0(22@22"Unused parameter 'gap'432526306#120#119#0(6@81"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c429555328#553#0#553#0#20"unused parameter '*'0(0#0#81"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c2441712112#1742"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixanalysis.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixanalysis.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixchange.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526305.076310
+e432526305.555290
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixchange.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:577: warning: no previous prototype for 'removefromivectorold'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:807: warning: no previous prototype for 'eliminateuniformativefromcladisticmatrix'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:806: warning: unused parameter 'autaps'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:806: warning: unused parameter 'nstates'
+lSLF07#2@87"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c432526305#432526305#0(547"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:577: warning: no previous prototype for 'removefromivectorold'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:807: warning: no previous prototype for 'eliminateuniformativefromcladisticmatrix'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:806: warning: unused parameter 'autaps'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c:806: warning: unused parameter 'nstates'4(22@48"No previous prototype for 'removefromivectorold'432526305#0#143#0(6@79"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c426991156#577#0#577#0#29"no previous prototype for '*'0(22@68"No previous prototype for 'eliminateuniformativefromcladisticmatrix'432526305#143#163#0(6@79"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c426991156#807#0#807#0#29"no previous prototype for '*'0(22@25"Unused parameter 'autaps'432526305#306#120#0(6@79"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c426991156#806#0#806#0#20"unused parameter '*'0(22@26"Unused parameter 'nstates'432526305#426#121#0(6@79"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c426991156#806#0#806#0#20"unused parameter '*'0(0#0#79"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c2441712112#1738"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixchange.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixchange.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixreading.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526306.530151
+e432526306.715215
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixreading.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c:342: warning: unused parameter 'ctype'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c:606: warning: unused parameter 'rows'
+lSLF07#2@88"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c432526306#432526306#0(239"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c:342: warning: unused parameter 'ctype'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c:606: warning: unused parameter 'rows'2(22@24"Unused parameter 'ctype'432526306#0#120#0(6@80"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c415142905#342#0#342#0#20"unused parameter '*'0(22@23"Unused parameter 'rows'432526306#120#119#0(6@80"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c415142905#606#0#606#0#20"unused parameter '*'0(0#0#80"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c2441712112#1740"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/matrixreading.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/matrixreading.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/mcmc.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526310.919826
+e432526310.921546
+r0
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/mcmc.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c432526310#432526310#0(758"cc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap: not a directorycc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap: not a directorycc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap: not a directorycc1: error: /Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap: not a directory4(4@178"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap: not a directory432526310#0#191#0(6@0"432526310#0#0#0#0#0"0(4@178"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap: not a directory432526310#191#191#0(6@0"432526310#0#0#0#0#0"0(4@175"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap: not a directory432526310#382#188#0(6@0"432526310#0#0#0#0#0"0(4@175"/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap: not a directory432526310#570#188#0(6@0"432526310#0#0#0#0#0"0(0#0#71"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c2441712112#1722"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/mcmc.o"1#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/memory.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526305.526228
+e432526305.653834
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/memory.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:70: warning: unused parameter 'ncolumns'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:142: warning: unused parameter 'ncolumns'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:207: warning: unused parameter 'ncolumns'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:272: warning: unused parameter 'ncolumns'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:340: warning: unused parameter 'ncolumns'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:402: warning: unused parameter 'ncolumns'
+lSLF07#2@81"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c432526305#432526305#0(695"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:70: warning: unused parameter 'ncolumns'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:142: warning: unused parameter 'ncolumns'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:207: warning: unused parameter 'ncolumns'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:272: warning: unused parameter 'ncolumns'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:340: warning: unused parameter 'ncolumns'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c:402: warning: unused parameter 'ncolumns'6(22@27"Unused parameter 'ncolumns'432526305#0#115#0(6@73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c401391840#70#0#70#0#20"unused parameter '*'0(22@27"Unused parameter 'ncolumns'432526305#115#116#0(6@73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c401391840#142#0#142#0#20"unused parameter '*'0(22@27"Unused parameter 'ncolumns'432526305#231#116#0(6@73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c401391840#207#0#207#0#20"unused parameter '*'0(22@27"Unused parameter 'ncolumns'432526305#347#116#0(6@73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c401391840#272#0#272#0#20"unused parameter '*'0(22@27"Unused parameter 'ncolumns'432526305#463#116#0(6@73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c401391840#340#0#340#0#20"unused parameter '*'0(22@27"Unused parameter 'ncolumns'432526305#579#116#0(6@73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c401391840#402#0#402#0#20"unused parameter '*'0(0#0#73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c4750400#1726"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/memory.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/memory.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/minmax.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/minmax.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526306.715414
+e432526306.800061
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/minmax.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/minmax.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/minmax.c432526306#432526306#0(0"0(0#0#73"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/minmax.c2441712112#1726"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/minmax.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/minmax.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/more_math.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/more_math.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526305.653960
+e432526305.778327
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/more_math.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/more_math.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/more_math.c432526305#432526305#0(0"0(0#0#76"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/more_math.c4261848#1732"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/more_math.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/more_math.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/nexus_write.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526311.013245
+e432526311.100685
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/nexus_write.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c:19: warning: no previous prototype for 'close_output'
+lSLF07#2@86"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c432526311#432526311#0(133"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c:19: warning: no previous prototype for 'close_output'1(22@40"No previous prototype for 'close_output'432526311#0#133#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c432258294#19#0#19#0#29"no previous prototype for '*'0(0#0#78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c2441712112#1736"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/nexus_write.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/nexus_write.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/optimization.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526310.921644
+e432526311.285134
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/optimization.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c: In function 'exhaustioncurveboot':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c:939: warning: unused variable 'SP'
+lSLF07#2@87"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c432526310#432526311#0(231"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c: In function 'exhaustioncurveboot':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c:939: warning: unused variable 'SP'1(22@20"Unused variable 'SP'432526311#116#115#0(6@79"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c237845583#939#0#939#0#19"unused variable '*'0(0#0#79"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c2441712112#1738"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/optimization.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/optimization.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/probability.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526306.104771
+e432526306.332946
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/probability.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c: In function 'lnPoisson_vector_part':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c:157: warning: unused variable 'z'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c:157: warning: unused variable 'y'
+lSLF07#2@86"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c432526306#432526306#0(343"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c: In function 'lnPoisson_vector_part':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c:157: warning: unused variable 'z'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c:157: warning: unused variable 'y'2(22@19"Unused variable 'z'432526306#117#113#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c432162144#157#0#157#0#19"unused variable '*'0(22@19"Unused variable 'y'432526306#230#113#0(6@78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c432162144#157#0#157#0#19"unused variable '*'0(0#0#78"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c2441712112#1736"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/probability.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/probability.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/sort.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/sort.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526305.555683
+e432526305.984113
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/sort.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/sort.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/sort.c432526305#432526305#0(0"0(0#0#71"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/sort.c4261848#1722"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/sort.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/sort.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/stratocladistics.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526307.063335
+e432526308.151333
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/stratocladistics.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'datecladefile':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:180: warning: format '%i' expects type 'int *', but argument 3 has type 'long int *'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'stratcompatparambstest':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3337: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3339: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3339: warning: format '%d' expects type 'int', but argument 4 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3244: warning: unused variable 'tiesih'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3244: warning: unused variable 'tiescha'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'stratcompatparambstest2':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3828: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3830: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3830: warning: format '%d' expects type 'int', but argument 4 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3730: warning: unused variable 'tiesih'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3730: warning: unused variable 'tiescha'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'stratcompatparambstest3':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4606: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4608: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4608: warning: format '%d' expects type 'int', but argument 4 has type 'long int'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4500: warning: unused variable 'tiesih'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4500: warning: unused variable 'tiescha'
+lSLF07#2@91"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432526307#432526308#0(2895"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'datecladefile':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:180: warning: format '%i' expects type 'int *', but argument 3 has type 'long int *'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'stratcompatparambstest':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3337: warning: format '%d' expects type 'int', but argument 3 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3339: warning: format '%d' expects type 'int', but argument 3 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3339: warning: format '%d' expects type 'int', but argument 4 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3244: warning: unused variable 'tiesih'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3244: warning: unused variable 'tiescha'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'stratcompatparambstest2':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3828: warning: format '%d' expects type 'int', but argument 3 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3830: warning: format '%d' expects type 'int', but argument 3 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3830: warning: format '%d' expects type 'int', but argument 4 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3730: warning: unused variable 'tiesih'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:3730: warning: unused variable 'tiescha'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c: In function 'stratcompatparambstest3':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4606: warning: format '%d' expects type 'int', but argument 3 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4608: warning: format '%d' expects type 'int', but argument 3 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4608: warning: format '%d' expects type 'int', but argument 4 has type 'long int'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4500: warning: unused variable 'tiesih'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c:4500: warning: unused variable 'tiescha'16(22@70"Format '%i' expects type 'int *', but argument 3 has type 'long int *'432526307#114#169#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#180#0#180#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 3 has type 'long int'432526307#406#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3337#0#3337#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 3 has type 'long int'432526307#572#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3339#0#3339#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 4 has type 'long int'432526307#738#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3339#0#3339#0#56"format '*' expects type '*', but argument * has type '*'0(22@24"Unused variable 'tiesih'432526307#904#124#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3244#0#3244#0#19"unused variable '*'0(22@25"Unused variable 'tiescha'432526307#1028#125#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3244#0#3244#0#19"unused variable '*'0(22@66"Format '%d' expects type 'int', but argument 3 has type 'long int'432526307#1277#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3828#0#3828#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 3 has type 'long int'432526307#1443#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3830#0#3830#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 4 has type 'long int'432526307#1609#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3830#0#3830#0#56"format '*' expects type '*', but argument * has type '*'0(22@24"Unused variable 'tiesih'432526307#1775#124#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3730#0#3730#0#19"unused variable '*'0(22@25"Unused variable 'tiescha'432526307#1899#125#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#3730#0#3730#0#19"unused variable '*'0(22@66"Format '%d' expects type 'int', but argument 3 has type 'long int'432526307#2148#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#4606#0#4606#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 3 has type 'long int'432526307#2314#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#4608#0#4608#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 4 has type 'long int'432526307#2480#166#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#4608#0#4608#0#56"format '*' expects type '*', but argument * has type '*'0(22@24"Unused variable 'tiesih'432526307#2646#124#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#4500#0#4500#0#19"unused variable '*'0(22@25"Unused variable 'tiescha'432526307#2770#125#0(6@83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c432505769#4500#0#4500#0#19"unused variable '*'0(0#0#83"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c2441712112#1746"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/stratocladistics.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/stratocladistics.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_likelihood.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526308.151456
+e432526308.352462
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_likelihood.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:54: warning: unused parameter 'UNKNOWN'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:54: warning: unused parameter 'INAP'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:91: warning: unused parameter 'UNKNOWN'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:91: warning: unused parameter 'INAP'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c: In function 'stratlikelihoodgeog':
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:213: warning: unused variable 'sl'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:212: warning: unused variable 'pg'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:210: warning: unused variable 'htu'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c: At top level:
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:208: warning: unused parameter 'gapl'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:208: warning: unused parameter 'geoglike'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:208: warning: unused parameter 'epsilon'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:296: warning: no previous prototype for 'stratlikelihoodgeognode'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:295: warning: unused parameter 'gapl'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:295: warning: unused parameter 'pg'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:295: warning: unused parameter 'htu'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:362: warning: unused parameter 'lnlnode'
+o/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:501: warning: unused parameter 'htu'
+lSLF07#2@90"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c432526308#432526308#0(2181"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:54: warning: unused parameter 'UNKNOWN'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:54: warning: unused parameter 'INAP'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:91: warning: unused parameter 'UNKNOWN'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:91: warning: unused parameter 'INAP'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c: In function 'stratlikelihoodgeog':/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:213: warning: unused variable 'sl'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:212: warning: unused variable 'pg'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:210: warning: unused variable 'htu'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c: At top level:/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:208: warning: unused parameter 'gapl'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:208: warning: unused parameter 'geoglike'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:208: warning: unused parameter 'epsilon'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:296: warning: no previous prototype for 'stratlikelihoodgeognode'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:295: warning: unused parameter 'gapl'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:295: warning: unused parameter 'pg'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:295: warning: unused parameter 'htu'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:362: warning: unused parameter 'lnlnode'/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c:501: warning: unused parameter 'htu'17(22@26"Unused parameter 'UNKNOWN'432526308#0#123#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#54#0#54#0#20"unused parameter '*'0(22@23"Unused parameter 'INAP'432526308#123#120#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#54#0#54#0#20"unused parameter '*'0(22@26"Unused parameter 'UNKNOWN'432526308#243#123#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#91#0#91#0#20"unused parameter '*'0(22@23"Unused parameter 'INAP'432526308#366#120#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#91#0#91#0#20"unused parameter '*'0(22@20"Unused variable 'sl'432526308#605#118#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#213#0#213#0#19"unused variable '*'0(22@20"Unused variable 'pg'432526308#723#118#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#212#0#212#0#19"unused variable '*'0(22@21"Unused variable 'htu'432526308#841#119#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#210#0#210#0#19"unused variable '*'0(23@13"At top level:432526308#960#98#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#0#0#0#0#0"0(22@23"Unused parameter 'gapl'432526308#1058#121#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#208#0#208#0#20"unused parameter '*'0(22@27"Unused parameter 'geoglike'432526308#1179#125#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#208#0#208#0#20"unused parameter '*'0(22@26"Unused parameter 'epsilon'432526308#1304#124#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#208#0#208#0#20"unused parameter '*'0(22@51"No previous prototype for 'stratlikelihoodgeognode'432526308#1428#149#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#296#0#296#0#29"no previous prototype for '*'0(22@23"Unused parameter 'gapl'432526308#1577#121#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#295#0#295#0#20"unused parameter '*'0(22@21"Unused parameter 'pg'432526308#1698#119#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#295#0#295#0#20"unused parameter '*'0(22@22"Unused parameter 'htu'432526308#1817#120#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#295#0#295#0#20"unused parameter '*'0(22@26"Unused parameter 'lnlnode'432526308#1937#124#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#362#0#362#0#20"unused parameter '*'0(22@22"Unused parameter 'htu'432526308#2061#120#0(6@82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c379879968#501#0#501#0#20"unused parameter '*'0(0#0#82"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c2441712112#1744"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_likelihood.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_likelihood.o"0#
+
+CCompileC "build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_read.o" "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_read.c" normal i386 c com.apple.compilers.gcc.4_2
+s432526306.800185
+e432526307.063209
+r1
+xCompileC
+xbuild/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_read.o
+x/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_read.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_read.c432526306#432526307#0(0"0(0#0#76"/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_read.c2441712112#1732"    cd /Users/peterwagner/Documents/Projects/PaleoMCMC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fshort-enums -fasm-blocks -O0 -mdynamic-no-pic -Wmissing-prototypes -Wunused-parameter -Wunused-variable -Wunknown-pragmas -fvisibility=hidden -gdwarf-2 -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-generated-files.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-own-target-headers.hmap" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-all-target-headers.hmap" -iquote "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Module Tester OSX-project-headers.hmap" "-F/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/include" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources/i386" "-I/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/DerivedSources" -fno-inline -c "/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/tree_read.c" -o "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/PaleoMCMC.build/Imported CodeWarrior Settings/PaleoMCMC OSX.build/Objects-normal/i386/tree_read.o"0#
+
+CLd "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/Module Tester OSX.app/Contents/MacOS/Module Tester OSX" normal i386
+r0
+
+CTouch "/Users/peterwagner/Documents/Projects/PaleoMCMC/build/Imported CodeWarrior Settings/Module Tester OSX.app"
+r0
+

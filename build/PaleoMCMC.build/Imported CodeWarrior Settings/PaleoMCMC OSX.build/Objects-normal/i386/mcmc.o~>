@@ -1,0 +1,3 @@
+/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c:87: warning: no previous prototype for 'swapbrMk'
+/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c:201: warning: unused parameter 'tree'
+/Users/peterwagner/Documents/Projects/PaleoMCMC/../common source/mcmc.c:201: warning: unused parameter 'bd'

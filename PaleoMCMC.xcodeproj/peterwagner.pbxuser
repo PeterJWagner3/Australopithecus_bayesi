@@ -1,0 +1,719 @@
+// !$*UTF8*$!
+{
+	0526496F19B809B5006EAD33 /* file.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 3328}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 403}";
+		};
+	};
+	0526497019B809B5006EAD33 /* file.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 351}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 430}";
+		};
+	};
+	0526497819B809FB006EAD33 /* geography.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 329}";
+			sepNavWindowFrame = "{{15, 113}, {1069, 910}}";
+		};
+	};
+	0526497F19B80A20006EAD33 /* distribution_evenness.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 3627}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 579}";
+		};
+	};
+	0526498019B80A20006EAD33 /* distribution_evenness.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 1209}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 579}";
+		};
+	};
+	0526498719B80A98006EAD33 /* distribution_fits.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 179140}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 585}";
+		};
+	};
+	052649A119B81197006EAD33 /* infotheory.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 3575}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 444}";
+		};
+	};
+	054A0D6F19C75ACA000F32CA /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Stdlib.h: No such file or directory";
+		fRef = 054DBA0115E41CDC00751C7E /* filereading.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 2;
+		rType = 1;
+	};
+	054A0D7019C75ACA000F32CA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 054DBA0115E41CDC00751C7E /* filereading.h */;
+		name = "filereading.h: 3";
+		rLen = 0;
+		rLoc = 20;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 0;
+	};
+	054DB9E915E41CDC00751C7E /* Project object */ = {
+		activeBuildConfigurationName = "Imported CodeWarrior Settings";
+		activeExecutable = 054DB9F815E41CDC00751C7E /* PaleoMCMC OSX */;
+		activeTarget = 054DB9F315E41CDC00751C7E /* PaleoMCMC OSX */;
+		addToTargets = (
+			054DB9F315E41CDC00751C7E /* PaleoMCMC OSX */,
+		);
+		breakpoints = (
+			05DDED6D19C3BA58001737DD /* Module Tester.c:300 */,
+			05DDED8119C3BC49001737DD /* Module Tester.c:300 */,
+			05DDED9319C3BE9B001737DD /* Module Tester.c:300 */,
+			05DDEDA219C3BFD8001737DD /* Module Tester.c:243 */,
+			05DDEDB319C3D918001737DD /* Module Tester.c:243 */,
+			05DDEE4719C53406001737DD /* Module Tester.c:300 */,
+			05DDEE4919C53446001737DD /* Module Tester.c:301 */,
+			05DDEE4B19C53448001737DD /* Module Tester.c:300 */,
+			05DDEE5219C5382E001737DD /* Module Tester.c:243 */,
+			05DDEE5419C53832001737DD /* Module Tester.c:243 */,
+			05AB3A2F19C5FCA700E5FBCE /* Module Tester.c:243 */,
+			05AB3A6319C61DEB00E5FBCE /* Module Tester.c:243 */,
+			05AB3A8D19C6674600E5FBCE /* Module Tester.c:232 */,
+			05AB3A8F19C6674A00E5FBCE /* Module Tester.c:216 */,
+			05AB3A9519C66FA100E5FBCE /* Module Tester.c:160 */,
+		);
+		codeSenseManager = 054DB9ED15E41CDC00751C7E /* Code sense */;
+		executables = (
+			054DB9F815E41CDC00751C7E /* PaleoMCMC OSX */,
+		);
+		ignoreBreakpointsInProjectsDict = {
+		};
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					349,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					461,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					281,
+					20,
+					48.1626,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 432495272;
+			PBXWorkspaceStateSaveDate = 432495272;
+		};
+		perUserProjectItems = {
+			054A0D6F19C75ACA000F32CA /* XCBuildMessageTextBookmark */ = 054A0D6F19C75ACA000F32CA /* XCBuildMessageTextBookmark */;
+			054A0D7019C75ACA000F32CA /* PBXTextBookmark */ = 054A0D7019C75ACA000F32CA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 054DB9EC15E41CDC00751C7E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	054DB9EC15E41CDC00751C7E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+		scmType = "";
+	};
+	054DB9ED15E41CDC00751C7E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	054DB9F315E41CDC00751C7E /* PaleoMCMC OSX */ = {
+		activeExec = 0;
+		executables = (
+			054DB9F815E41CDC00751C7E /* PaleoMCMC OSX */,
+		);
+	};
+	054DB9F815E41CDC00751C7E /* PaleoMCMC OSX */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 0;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "PaleoMCMC OSX";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fctrl = 1;
+			$fioff = 1;
+			$fiseg = 1;
+			$fooff = 1;
+			$fop = 1;
+			$foseg = 1;
+			$fs = 1;
+			$fstat = 1;
+			$ftag = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$ss = 1;
+		};
+	};
+	054DB9FE15E41CDC00751C7E /* Module Tester.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = "Module Tester.c";
+		path = "/Users/peterwagner/Documents/Projects/PaleoMCMC/Module Tester.c";
+		sourceTree = "<absolute>";
+	};
+	054DB9FF15E41CDC00751C7E /* compatibility_functions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 1612}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	054DBA0115E41CDC00751C7E /* filereading.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 793}}";
+			sepNavSelRange = "{20, 0}";
+			sepNavVisRange = "{0, 215}";
+		};
+	};
+	054DBA0215E41CDC00751C7E /* filereading.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 10725}}";
+			sepNavSelRange = "{2124, 0}";
+			sepNavVisRange = "{1757, 536}";
+		};
+	};
+	054DBA0315E41CDC00751C7E /* historicaldiversity.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 1716}}";
+			sepNavSelRange = "{3234, 0}";
+			sepNavVisRange = "{2769, 3598}";
+			sepNavWindowFrame = "{{15, 113}, {1069, 910}}";
+		};
+	};
+	054DBA0415E41CDC00751C7E /* historicaldiversity.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1010, 16588}}";
+			sepNavSelRange = "{27143, 0}";
+			sepNavVisRange = "{26431, 1240}";
+			sepNavWindowFrame = "{{38, 92}, {1069, 910}}";
+		};
+	};
+	054DBA0615E41CDC00751C7E /* matrixanalysis.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 12519}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 404}";
+		};
+	};
+	054DBA0E15E41CDC00751C7E /* minmax.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 5031}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	054DBA0F15E41CDC00751C7E /* MonteCarloPhylogenyFunctions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 2301}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 290}";
+		};
+	};
+	054DBA1115E41CDC00751C7E /* more_math.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 300}";
+		};
+	};
+	054DBA1215E41CDC00751C7E /* more_math.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 2041}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 271}";
+		};
+	};
+	054DBA1315E41CDC00751C7E /* probability.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {765, 1716}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1982}";
+			sepNavWindowFrame = "{{130, 20}, {824, 898}}";
+		};
+	};
+	054DBA1415E41CDC00751C7E /* probability.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 14040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	054DBA1A15E41CDD00751C7E /* tree_likelihood.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 7228}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	054DBA1B15E41CDD00751C7E /* tree_read.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 1222}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2621}";
+			sepNavWindowFrame = "{{107, 41}, {824, 898}}";
+		};
+	};
+	054DBA1C15E41CDD00751C7E /* tree_read.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 17186}}";
+			sepNavSelRange = "{40262, 0}";
+			sepNavVisRange = "{39979, 345}";
+		};
+	};
+	054DBA4515E41CE100751C7E /* distribution_fits.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 4199}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 588}";
+		};
+	};
+	054DBA4715E41CE100751C7E /* infotheory.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 351}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	054DBA4B15E41CE200751C7E /* distribution_calc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 1742}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 588}";
+		};
+	};
+	05AB3A2F19C5FCA700E5FBCE /* Module Tester.c:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.5908071;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05AB3A6319C61DEB00E5FBCE /* Module Tester.c:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590813;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05AB3A8D19C6674600E5FBCE /* Module Tester.c:232 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 232;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590819;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05AB3A8F19C6674A00E5FBCE /* Module Tester.c:216 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 216;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.5908251;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05AB3A9519C66FA100E5FBCE /* Module Tester.c:160 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 160;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590831;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDED4119C3B741001737DD /* mcmc.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 1378}}";
+			sepNavSelRange = "{2696, 0}";
+			sepNavVisRange = "{2246, 441}";
+			sepNavWindowFrame = "{{448, 50}, {1069, 910}}";
+		};
+	};
+	05DDED4319C3B759001737DD /* mcmc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 442}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 194}";
+			sepNavWindowFrame = "{{61, 71}, {1069, 910}}";
+		};
+	};
+	05DDED5A19C3B8C0001737DD /* optimization.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 24570}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 261}";
+		};
+	};
+	05DDED6219C3B8EF001737DD /* nexus_write.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 1885}}";
+			sepNavSelRange = "{1753, 0}";
+			sepNavVisRange = "{1465, 520}";
+			sepNavWindowFrame = "{{599, 59}, {1069, 910}}";
+		};
+	};
+	05DDED6319C3B8EF001737DD /* nexus_write.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {639, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 341}";
+		};
+	};
+	05DDED6D19C3BA58001737DD /* Module Tester.c:300 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 300;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590714;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDED8119C3BC49001737DD /* Module Tester.c:300 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 300;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.5907511;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDED9319C3BE9B001737DD /* Module Tester.c:300 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 300;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590758;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	05DDEDA219C3BFD8001737DD /* Module Tester.c:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590765;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDEDB319C3D918001737DD /* Module Tester.c:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590771;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDEE4719C53406001737DD /* Module Tester.c:300 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 300;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590778;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDEE4919C53446001737DD /* Module Tester.c:301 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 301;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.590784;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDEE4B19C53448001737DD /* Module Tester.c:300 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 300;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.59079;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	05DDEE5219C5382E001737DD /* Module Tester.c:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.5907961;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	05DDEE5419C53832001737DD /* Module Tester.c:243 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 054DB9FE15E41CDC00751C7E /* Module Tester.c */;
+		functionName = "main()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 243;
+		location = "Module Tester OSX";
+		modificationTime = 432495004.5908011;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+}

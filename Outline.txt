@@ -1,0 +1,1 @@
+1. estimate geographic likelihoods (assume ancestral condition for daughter lineages)2. estimate stratigraphic likelihood	a. if species, then use modifier for observed stratigraphic data	b. if HTU, then assume flat priors for freqrat

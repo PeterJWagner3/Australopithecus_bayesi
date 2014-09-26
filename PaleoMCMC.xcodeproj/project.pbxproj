@@ -1,0 +1,439 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0526496B19B80972006EAD33 /* matrix.c in Sources */ = {isa = PBXBuildFile; fileRef = 0526496919B80972006EAD33 /* matrix.c */; };
+		0526496C19B80972006EAD33 /* matrix.h in Headers */ = {isa = PBXBuildFile; fileRef = 0526496A19B80972006EAD33 /* matrix.h */; };
+		0526497119B809B5006EAD33 /* file.c in Sources */ = {isa = PBXBuildFile; fileRef = 0526496F19B809B5006EAD33 /* file.c */; };
+		0526497219B809B5006EAD33 /* file.h in Headers */ = {isa = PBXBuildFile; fileRef = 0526497019B809B5006EAD33 /* file.h */; };
+		0526497919B809FB006EAD33 /* geography.c in Sources */ = {isa = PBXBuildFile; fileRef = 0526497719B809FB006EAD33 /* geography.c */; };
+		0526497A19B809FB006EAD33 /* geography.h in Headers */ = {isa = PBXBuildFile; fileRef = 0526497819B809FB006EAD33 /* geography.h */; };
+		0526498119B80A20006EAD33 /* distribution_evenness.c in Sources */ = {isa = PBXBuildFile; fileRef = 0526497F19B80A20006EAD33 /* distribution_evenness.c */; };
+		0526498219B80A20006EAD33 /* distribution_evenness.h in Headers */ = {isa = PBXBuildFile; fileRef = 0526498019B80A20006EAD33 /* distribution_evenness.h */; };
+		0526498819B80A98006EAD33 /* distribution_fits.c in Sources */ = {isa = PBXBuildFile; fileRef = 0526498719B80A98006EAD33 /* distribution_fits.c */; };
+		0526498C19B80AAE006EAD33 /* distribution_calc.c in Sources */ = {isa = PBXBuildFile; fileRef = 0526498B19B80AAE006EAD33 /* distribution_calc.c */; };
+		0526499D19B81181006EAD33 /* disparityanalyses.c in Sources */ = {isa = PBXBuildFile; fileRef = 0526499B19B81181006EAD33 /* disparityanalyses.c */; };
+		0526499E19B81181006EAD33 /* disparityanalyses.h in Headers */ = {isa = PBXBuildFile; fileRef = 0526499C19B81181006EAD33 /* disparityanalyses.h */; };
+		052649A219B81197006EAD33 /* infotheory.c in Sources */ = {isa = PBXBuildFile; fileRef = 052649A119B81197006EAD33 /* infotheory.c */; };
+		054DBA1E15E41CDD00751C7E /* filereading.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0115E41CDC00751C7E /* filereading.h */; };
+		054DBA1F15E41CDD00751C7E /* filereading.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0215E41CDC00751C7E /* filereading.c */; };
+		054DBA2015E41CDD00751C7E /* matrixchange.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0815E41CDC00751C7E /* matrixchange.c */; };
+		054DBA2115E41CDD00751C7E /* matrixchange.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0715E41CDC00751C7E /* matrixchange.h */; };
+		054DBA2315E41CDD00751C7E /* memory.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0B15E41CDC00751C7E /* memory.h */; };
+		054DBA2415E41CDD00751C7E /* memory.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0C15E41CDC00751C7E /* memory.c */; };
+		054DBA2515E41CDD00751C7E /* sort.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA1515E41CDC00751C7E /* sort.h */; };
+		054DBA2615E41CDD00751C7E /* sort.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA1615E41CDD00751C7E /* sort.c */; };
+		054DBA2715E41CDD00751C7E /* more_math.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA1115E41CDC00751C7E /* more_math.h */; };
+		054DBA2815E41CDD00751C7E /* more_math.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA1215E41CDC00751C7E /* more_math.c */; };
+		054DBA2915E41CDD00751C7E /* historicaldiversity.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0415E41CDC00751C7E /* historicaldiversity.c */; };
+		054DBA2A15E41CDD00751C7E /* historicaldiversity.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0315E41CDC00751C7E /* historicaldiversity.h */; };
+		054DBA2C15E41CDD00751C7E /* compatibility_functions.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DB9FF15E41CDC00751C7E /* compatibility_functions.h */; };
+		054DBA2D15E41CDD00751C7E /* compatibility_functions.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0015E41CDC00751C7E /* compatibility_functions.c */; };
+		054DBA2E15E41CDD00751C7E /* probability.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA1415E41CDC00751C7E /* probability.c */; };
+		054DBA2F15E41CDD00751C7E /* probability.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA1315E41CDC00751C7E /* probability.h */; };
+		054DBA3115E41CDD00751C7E /* matrixanalysis.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0515E41CDC00751C7E /* matrixanalysis.h */; };
+		054DBA3215E41CDD00751C7E /* matrixanalysis.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0615E41CDC00751C7E /* matrixanalysis.c */; };
+		054DBA3315E41CDD00751C7E /* matrixreading.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0915E41CDC00751C7E /* matrixreading.h */; };
+		054DBA3415E41CDD00751C7E /* matrixreading.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0A15E41CDC00751C7E /* matrixreading.c */; };
+		054DBA3515E41CDD00751C7E /* minmax.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0D15E41CDC00751C7E /* minmax.h */; };
+		054DBA3615E41CDD00751C7E /* minmax.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA0E15E41CDC00751C7E /* minmax.c */; };
+		054DBA3715E41CDD00751C7E /* tree_read.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA1B15E41CDD00751C7E /* tree_read.h */; };
+		054DBA3815E41CDD00751C7E /* tree_read.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA1C15E41CDD00751C7E /* tree_read.c */; };
+		054DBA3B15E41CDD00751C7E /* stratocladistics.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA1715E41CDD00751C7E /* stratocladistics.h */; };
+		054DBA3C15E41CDD00751C7E /* stratocladistics.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA1815E41CDD00751C7E /* stratocladistics.c */; };
+		054DBA3E15E41CDD00751C7E /* MonteCarloPhylogenyFunctions.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA1015E41CDC00751C7E /* MonteCarloPhylogenyFunctions.c */; };
+		054DBA3F15E41CDD00751C7E /* MonteCarloPhylogenyFunctions.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA0F15E41CDC00751C7E /* MonteCarloPhylogenyFunctions.h */; };
+		054DBA4215E41CDD00751C7E /* tree_likelihood.h in Headers */ = {isa = PBXBuildFile; fileRef = 054DBA1915E41CDD00751C7E /* tree_likelihood.h */; };
+		054DBA4315E41CDD00751C7E /* tree_likelihood.c in Sources */ = {isa = PBXBuildFile; fileRef = 054DBA1A15E41CDD00751C7E /* tree_likelihood.c */; };
+		05DDED4219C3B741001737DD /* mcmc.c in Sources */ = {isa = PBXBuildFile; fileRef = 05DDED4119C3B741001737DD /* mcmc.c */; };
+		05DDED4419C3B759001737DD /* mcmc.h in Headers */ = {isa = PBXBuildFile; fileRef = 05DDED4319C3B759001737DD /* mcmc.h */; };
+		05DDED5B19C3B8C0001737DD /* optimization.c in Sources */ = {isa = PBXBuildFile; fileRef = 05DDED5A19C3B8C0001737DD /* optimization.c */; };
+		05DDED6419C3B8EF001737DD /* nexus_write.c in Sources */ = {isa = PBXBuildFile; fileRef = 05DDED6219C3B8EF001737DD /* nexus_write.c */; };
+		05DDED6519C3B8EF001737DD /* nexus_write.h in Headers */ = {isa = PBXBuildFile; fileRef = 05DDED6319C3B8EF001737DD /* nexus_write.h */; };
+		05EC472119C7592700BBE620 /* PaleoMCMC.h in Headers */ = {isa = PBXBuildFile; fileRef = 05EC472019C7592700BBE620 /* PaleoMCMC.h */; };
+		05EC472319C7592E00BBE620 /* PaleoMCMC.c in Sources */ = {isa = PBXBuildFile; fileRef = 05EC472219C7592E00BBE620 /* PaleoMCMC.c */; };
+		7831EA3E19CCBA4400C4EA53 /* memory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7831EA3D19CCBA4400C4EA53 /* memory.cpp */; };
+		7831EA4419CCBD4300C4EA53 /* filereading.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7831EA4319CCBD4300C4EA53 /* filereading.cpp */; };
+		786A09B519C7679100898CA0 /* distribution_calc.h in Headers */ = {isa = PBXBuildFile; fileRef = 786A09B419C7679100898CA0 /* distribution_calc.h */; };
+		786A09B719C767BF00898CA0 /* distribution_fits.h in Headers */ = {isa = PBXBuildFile; fileRef = 786A09B619C767BF00898CA0 /* distribution_fits.h */; };
+		786A09B919C767E400898CA0 /* infotheory.h in Headers */ = {isa = PBXBuildFile; fileRef = 786A09B819C767E400898CA0 /* infotheory.h */; };
+		786A09BB19C7680000898CA0 /* optimization.h in Headers */ = {isa = PBXBuildFile; fileRef = 786A09BA19C7680000898CA0 /* optimization.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0526496919B80972006EAD33 /* matrix.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = matrix.c; path = "../common source/matrix.c"; sourceTree = SOURCE_ROOT; };
+		0526496A19B80972006EAD33 /* matrix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = matrix.h; path = "../common source/matrix.h"; sourceTree = SOURCE_ROOT; };
+		0526496F19B809B5006EAD33 /* file.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = file.c; path = "../common source/file.c"; sourceTree = SOURCE_ROOT; };
+		0526497019B809B5006EAD33 /* file.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = file.h; path = "../common source/file.h"; sourceTree = SOURCE_ROOT; };
+		0526497719B809FB006EAD33 /* geography.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = geography.c; path = "../common source/geography.c"; sourceTree = SOURCE_ROOT; };
+		0526497819B809FB006EAD33 /* geography.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = geography.h; path = "../common source/geography.h"; sourceTree = SOURCE_ROOT; };
+		0526497F19B80A20006EAD33 /* distribution_evenness.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = distribution_evenness.c; path = "../common source/distribution_evenness.c"; sourceTree = SOURCE_ROOT; };
+		0526498019B80A20006EAD33 /* distribution_evenness.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = distribution_evenness.h; path = "../common source/distribution_evenness.h"; sourceTree = SOURCE_ROOT; };
+		0526498719B80A98006EAD33 /* distribution_fits.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = distribution_fits.c; path = "../common source/distribution_fits.c"; sourceTree = SOURCE_ROOT; };
+		0526498B19B80AAE006EAD33 /* distribution_calc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = distribution_calc.c; path = "../common source/distribution_calc.c"; sourceTree = SOURCE_ROOT; };
+		0526499B19B81181006EAD33 /* disparityanalyses.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = disparityanalyses.c; path = "../common source/disparityanalyses.c"; sourceTree = SOURCE_ROOT; };
+		0526499C19B81181006EAD33 /* disparityanalyses.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = disparityanalyses.h; path = "../common source/disparityanalyses.h"; sourceTree = SOURCE_ROOT; };
+		052649A119B81197006EAD33 /* infotheory.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = infotheory.c; path = "../common source/infotheory.c"; sourceTree = SOURCE_ROOT; };
+		054DB9F615E41CDC00751C7E /* Module Tester OSX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Module Tester OSX.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		054DB9FF15E41CDC00751C7E /* compatibility_functions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = compatibility_functions.h; path = "../common source/compatibility_functions.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0015E41CDC00751C7E /* compatibility_functions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = compatibility_functions.c; path = "../common source/compatibility_functions.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0115E41CDC00751C7E /* filereading.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = filereading.h; path = "../common source/filereading.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0215E41CDC00751C7E /* filereading.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = filereading.c; path = "../common source/filereading.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0315E41CDC00751C7E /* historicaldiversity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = historicaldiversity.h; path = "../common source/historicaldiversity.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0415E41CDC00751C7E /* historicaldiversity.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = historicaldiversity.c; path = "../common source/historicaldiversity.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0515E41CDC00751C7E /* matrixanalysis.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = matrixanalysis.h; path = "../common source/matrixanalysis.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0615E41CDC00751C7E /* matrixanalysis.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = matrixanalysis.c; path = "../common source/matrixanalysis.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0715E41CDC00751C7E /* matrixchange.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = matrixchange.h; path = "../common source/matrixchange.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0815E41CDC00751C7E /* matrixchange.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = matrixchange.c; path = "../common source/matrixchange.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0915E41CDC00751C7E /* matrixreading.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = matrixreading.h; path = "../common source/matrixreading.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0A15E41CDC00751C7E /* matrixreading.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = matrixreading.c; path = "../common source/matrixreading.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0B15E41CDC00751C7E /* memory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = memory.h; path = "../common source/memory.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0C15E41CDC00751C7E /* memory.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = memory.c; path = "../common source/memory.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0D15E41CDC00751C7E /* minmax.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = minmax.h; path = "../common source/minmax.h"; sourceTree = SOURCE_ROOT; };
+		054DBA0E15E41CDC00751C7E /* minmax.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = minmax.c; path = "../common source/minmax.c"; sourceTree = SOURCE_ROOT; };
+		054DBA0F15E41CDC00751C7E /* MonteCarloPhylogenyFunctions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MonteCarloPhylogenyFunctions.h; path = "../common source/MonteCarloPhylogenyFunctions.h"; sourceTree = SOURCE_ROOT; };
+		054DBA1015E41CDC00751C7E /* MonteCarloPhylogenyFunctions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = MonteCarloPhylogenyFunctions.c; path = "../common source/MonteCarloPhylogenyFunctions.c"; sourceTree = SOURCE_ROOT; };
+		054DBA1115E41CDC00751C7E /* more_math.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = more_math.h; path = "../common source/more_math.h"; sourceTree = SOURCE_ROOT; };
+		054DBA1215E41CDC00751C7E /* more_math.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = more_math.c; path = "../common source/more_math.c"; sourceTree = SOURCE_ROOT; };
+		054DBA1315E41CDC00751C7E /* probability.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = probability.h; path = "../common source/probability.h"; sourceTree = SOURCE_ROOT; };
+		054DBA1415E41CDC00751C7E /* probability.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = probability.c; path = "../common source/probability.c"; sourceTree = SOURCE_ROOT; };
+		054DBA1515E41CDC00751C7E /* sort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = sort.h; path = "../common source/sort.h"; sourceTree = SOURCE_ROOT; };
+		054DBA1615E41CDD00751C7E /* sort.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = sort.c; path = "../common source/sort.c"; sourceTree = SOURCE_ROOT; };
+		054DBA1715E41CDD00751C7E /* stratocladistics.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = stratocladistics.h; path = "../common source/stratocladistics.h"; sourceTree = SOURCE_ROOT; };
+		054DBA1815E41CDD00751C7E /* stratocladistics.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = stratocladistics.c; path = "../common source/stratocladistics.c"; sourceTree = SOURCE_ROOT; };
+		054DBA1915E41CDD00751C7E /* tree_likelihood.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = tree_likelihood.h; path = "../common source/tree_likelihood.h"; sourceTree = SOURCE_ROOT; };
+		054DBA1A15E41CDD00751C7E /* tree_likelihood.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = tree_likelihood.c; path = "../common source/tree_likelihood.c"; sourceTree = SOURCE_ROOT; };
+		054DBA1B15E41CDD00751C7E /* tree_read.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = tree_read.h; path = "../common source/tree_read.h"; sourceTree = SOURCE_ROOT; };
+		054DBA1C15E41CDD00751C7E /* tree_read.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = tree_read.c; path = "../common source/tree_read.c"; sourceTree = SOURCE_ROOT; };
+		05DDED4119C3B741001737DD /* mcmc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = mcmc.c; path = "../common source/mcmc.c"; sourceTree = SOURCE_ROOT; };
+		05DDED4319C3B759001737DD /* mcmc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mcmc.h; path = "../common source/mcmc.h"; sourceTree = SOURCE_ROOT; };
+		05DDED5A19C3B8C0001737DD /* optimization.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = optimization.c; path = "../common source/optimization.c"; sourceTree = SOURCE_ROOT; };
+		05DDED6219C3B8EF001737DD /* nexus_write.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = nexus_write.c; path = "../common source/nexus_write.c"; sourceTree = SOURCE_ROOT; };
+		05DDED6319C3B8EF001737DD /* nexus_write.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = nexus_write.h; path = "../common source/nexus_write.h"; sourceTree = SOURCE_ROOT; };
+		05EC472019C7592700BBE620 /* PaleoMCMC.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = PaleoMCMC.h; sourceTree = "<group>"; };
+		05EC472219C7592E00BBE620 /* PaleoMCMC.c */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.c; path = PaleoMCMC.c; sourceTree = "<group>"; };
+		7831EA3D19CCBA4400C4EA53 /* memory.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = memory.cpp; path = "../common source/memory.cpp"; sourceTree = "<group>"; };
+		7831EA4319CCBD4300C4EA53 /* filereading.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = filereading.cpp; path = "../common source/filereading.cpp"; sourceTree = "<group>"; };
+		786A09B419C7679100898CA0 /* distribution_calc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = distribution_calc.h; path = "../common source/distribution_calc.h"; sourceTree = "<group>"; };
+		786A09B619C767BF00898CA0 /* distribution_fits.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = distribution_fits.h; path = "../common source/distribution_fits.h"; sourceTree = "<group>"; };
+		786A09B819C767E400898CA0 /* infotheory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = infotheory.h; path = "../common source/infotheory.h"; sourceTree = "<group>"; };
+		786A09BA19C7680000898CA0 /* optimization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = optimization.h; path = "../common source/optimization.h"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		054DB9F115E41CDC00751C7E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		054DB9E715E41CDC00751C7E = {
+			isa = PBXGroup;
+			children = (
+				054DB9FB15E41CDC00751C7E /* Sources */,
+				054DBA1D15E41CDD00751C7E /* Libraries */,
+				054DBA4415E41CE100751C7E /* Imported Files */,
+				054DB9F715E41CDC00751C7E /* Products */,
+			);
+			sourceTree = "<group>";
+			usesTabs = 1;
+		};
+		054DB9F715E41CDC00751C7E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				054DB9F615E41CDC00751C7E /* Module Tester OSX.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		054DB9FB15E41CDC00751C7E /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				05EC472019C7592700BBE620 /* PaleoMCMC.h */,
+				05EC472219C7592E00BBE620 /* PaleoMCMC.c */,
+				054DB9FF15E41CDC00751C7E /* compatibility_functions.h */,
+				054DBA0015E41CDC00751C7E /* compatibility_functions.c */,
+				0526499B19B81181006EAD33 /* disparityanalyses.c */,
+				0526499C19B81181006EAD33 /* disparityanalyses.h */,
+				786A09B419C7679100898CA0 /* distribution_calc.h */,
+				0526498B19B80AAE006EAD33 /* distribution_calc.c */,
+				0526497F19B80A20006EAD33 /* distribution_evenness.c */,
+				0526498019B80A20006EAD33 /* distribution_evenness.h */,
+				786A09B619C767BF00898CA0 /* distribution_fits.h */,
+				0526498719B80A98006EAD33 /* distribution_fits.c */,
+				0526497019B809B5006EAD33 /* file.h */,
+				0526496F19B809B5006EAD33 /* file.c */,
+				054DBA0115E41CDC00751C7E /* filereading.h */,
+				054DBA0215E41CDC00751C7E /* filereading.c */,
+				7831EA4319CCBD4300C4EA53 /* filereading.cpp */,
+				0526497719B809FB006EAD33 /* geography.c */,
+				0526497819B809FB006EAD33 /* geography.h */,
+				054DBA0415E41CDC00751C7E /* historicaldiversity.c */,
+				054DBA0315E41CDC00751C7E /* historicaldiversity.h */,
+				786A09B819C767E400898CA0 /* infotheory.h */,
+				052649A119B81197006EAD33 /* infotheory.c */,
+				0526496A19B80972006EAD33 /* matrix.h */,
+				0526496919B80972006EAD33 /* matrix.c */,
+				054DBA0515E41CDC00751C7E /* matrixanalysis.h */,
+				054DBA0615E41CDC00751C7E /* matrixanalysis.c */,
+				054DBA0715E41CDC00751C7E /* matrixchange.h */,
+				054DBA0815E41CDC00751C7E /* matrixchange.c */,
+				054DBA0915E41CDC00751C7E /* matrixreading.h */,
+				054DBA0A15E41CDC00751C7E /* matrixreading.c */,
+				054DBA0B15E41CDC00751C7E /* memory.h */,
+				054DBA0C15E41CDC00751C7E /* memory.c */,
+				7831EA3D19CCBA4400C4EA53 /* memory.cpp */,
+				05DDED4319C3B759001737DD /* mcmc.h */,
+				05DDED4119C3B741001737DD /* mcmc.c */,
+				054DBA0D15E41CDC00751C7E /* minmax.h */,
+				054DBA0E15E41CDC00751C7E /* minmax.c */,
+				054DBA0F15E41CDC00751C7E /* MonteCarloPhylogenyFunctions.h */,
+				054DBA1015E41CDC00751C7E /* MonteCarloPhylogenyFunctions.c */,
+				054DBA1115E41CDC00751C7E /* more_math.h */,
+				054DBA1215E41CDC00751C7E /* more_math.c */,
+				05DDED6319C3B8EF001737DD /* nexus_write.h */,
+				05DDED6219C3B8EF001737DD /* nexus_write.c */,
+				786A09BA19C7680000898CA0 /* optimization.h */,
+				05DDED5A19C3B8C0001737DD /* optimization.c */,
+				054DBA1315E41CDC00751C7E /* probability.h */,
+				054DBA1415E41CDC00751C7E /* probability.c */,
+				054DBA1515E41CDC00751C7E /* sort.h */,
+				054DBA1615E41CDD00751C7E /* sort.c */,
+				054DBA1715E41CDD00751C7E /* stratocladistics.h */,
+				054DBA1815E41CDD00751C7E /* stratocladistics.c */,
+				054DBA1915E41CDD00751C7E /* tree_likelihood.h */,
+				054DBA1A15E41CDD00751C7E /* tree_likelihood.c */,
+				054DBA1B15E41CDD00751C7E /* tree_read.h */,
+				054DBA1C15E41CDD00751C7E /* tree_read.c */,
+			);
+			name = Sources;
+			sourceTree = "<group>";
+		};
+		054DBA1D15E41CDD00751C7E /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		054DBA4415E41CE100751C7E /* Imported Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Imported Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		054DB9EE15E41CDC00751C7E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				054DBA1E15E41CDD00751C7E /* filereading.h in Headers */,
+				054DBA2115E41CDD00751C7E /* matrixchange.h in Headers */,
+				054DBA2315E41CDD00751C7E /* memory.h in Headers */,
+				054DBA2515E41CDD00751C7E /* sort.h in Headers */,
+				054DBA2715E41CDD00751C7E /* more_math.h in Headers */,
+				054DBA2A15E41CDD00751C7E /* historicaldiversity.h in Headers */,
+				054DBA2C15E41CDD00751C7E /* compatibility_functions.h in Headers */,
+				786A09B919C767E400898CA0 /* infotheory.h in Headers */,
+				786A09B719C767BF00898CA0 /* distribution_fits.h in Headers */,
+				786A09BB19C7680000898CA0 /* optimization.h in Headers */,
+				054DBA2F15E41CDD00751C7E /* probability.h in Headers */,
+				054DBA3115E41CDD00751C7E /* matrixanalysis.h in Headers */,
+				054DBA3315E41CDD00751C7E /* matrixreading.h in Headers */,
+				054DBA3515E41CDD00751C7E /* minmax.h in Headers */,
+				054DBA3715E41CDD00751C7E /* tree_read.h in Headers */,
+				054DBA3B15E41CDD00751C7E /* stratocladistics.h in Headers */,
+				054DBA3F15E41CDD00751C7E /* MonteCarloPhylogenyFunctions.h in Headers */,
+				054DBA4215E41CDD00751C7E /* tree_likelihood.h in Headers */,
+				0526496C19B80972006EAD33 /* matrix.h in Headers */,
+				0526497219B809B5006EAD33 /* file.h in Headers */,
+				0526497A19B809FB006EAD33 /* geography.h in Headers */,
+				0526498219B80A20006EAD33 /* distribution_evenness.h in Headers */,
+				786A09B519C7679100898CA0 /* distribution_calc.h in Headers */,
+				0526499E19B81181006EAD33 /* disparityanalyses.h in Headers */,
+				05DDED4419C3B759001737DD /* mcmc.h in Headers */,
+				05DDED6519C3B8EF001737DD /* nexus_write.h in Headers */,
+				05EC472119C7592700BBE620 /* PaleoMCMC.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		054DB9F315E41CDC00751C7E /* PaleoMCMC OSX */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 054DB9F915E41CDC00751C7E /* Build configuration list for PBXNativeTarget "PaleoMCMC OSX" */;
+			buildPhases = (
+				054DB9EE15E41CDC00751C7E /* Headers */,
+				054DB9EF15E41CDC00751C7E /* Sources */,
+				054DB9F015E41CDC00751C7E /* Resources */,
+				054DB9F115E41CDC00751C7E /* Frameworks */,
+				054DB9F215E41CDC00751C7E /* Rez */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "PaleoMCMC OSX";
+			productName = "Module Tester OSX";
+			productReference = 054DB9F615E41CDC00751C7E /* Module Tester OSX.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		054DB9E915E41CDC00751C7E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 054DB9EA15E41CDC00751C7E /* Build configuration list for PBXProject "PaleoMCMC" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 054DB9E715E41CDC00751C7E;
+			productRefGroup = 054DB9F715E41CDC00751C7E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				054DB9F315E41CDC00751C7E /* PaleoMCMC OSX */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		054DB9F015E41CDC00751C7E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXRezBuildPhase section */
+		054DB9F215E41CDC00751C7E /* Rez */ = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXRezBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		054DB9EF15E41CDC00751C7E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				054DBA1F15E41CDD00751C7E /* filereading.c in Sources */,
+				054DBA2015E41CDD00751C7E /* matrixchange.c in Sources */,
+				054DBA2415E41CDD00751C7E /* memory.c in Sources */,
+				054DBA2615E41CDD00751C7E /* sort.c in Sources */,
+				054DBA2815E41CDD00751C7E /* more_math.c in Sources */,
+				054DBA2915E41CDD00751C7E /* historicaldiversity.c in Sources */,
+				054DBA2D15E41CDD00751C7E /* compatibility_functions.c in Sources */,
+				054DBA2E15E41CDD00751C7E /* probability.c in Sources */,
+				054DBA3215E41CDD00751C7E /* matrixanalysis.c in Sources */,
+				054DBA3415E41CDD00751C7E /* matrixreading.c in Sources */,
+				054DBA3615E41CDD00751C7E /* minmax.c in Sources */,
+				054DBA3815E41CDD00751C7E /* tree_read.c in Sources */,
+				7831EA3E19CCBA4400C4EA53 /* memory.cpp in Sources */,
+				054DBA3C15E41CDD00751C7E /* stratocladistics.c in Sources */,
+				054DBA3E15E41CDD00751C7E /* MonteCarloPhylogenyFunctions.c in Sources */,
+				054DBA4315E41CDD00751C7E /* tree_likelihood.c in Sources */,
+				0526496B19B80972006EAD33 /* matrix.c in Sources */,
+				0526497119B809B5006EAD33 /* file.c in Sources */,
+				0526497919B809FB006EAD33 /* geography.c in Sources */,
+				0526498119B80A20006EAD33 /* distribution_evenness.c in Sources */,
+				0526498819B80A98006EAD33 /* distribution_fits.c in Sources */,
+				0526498C19B80AAE006EAD33 /* distribution_calc.c in Sources */,
+				7831EA4419CCBD4300C4EA53 /* filereading.cpp in Sources */,
+				0526499D19B81181006EAD33 /* disparityanalyses.c in Sources */,
+				052649A219B81197006EAD33 /* infotheory.c in Sources */,
+				05DDED4219C3B741001737DD /* mcmc.c in Sources */,
+				05DDED5B19C3B8C0001737DD /* optimization.c in Sources */,
+				05DDED6419C3B8EF001737DD /* nexus_write.c in Sources */,
+				05EC472319C7592E00BBE620 /* PaleoMCMC.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		054DB9EB15E41CDC00751C7E /* Imported CodeWarrior Settings */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+			};
+			name = "Imported CodeWarrior Settings";
+		};
+		054DB9FA15E41CDC00751C7E /* Imported CodeWarrior Settings */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_ALTIVEC_EXTENSIONS = YES;
+				GCC_CHAR_IS_UNSIGNED_CHAR = NO;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_CPU = G4;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_REUSE_STRINGS = YES;
+				GCC_SHORT_ENUMS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_HIDDEN_VIRTUAL_FUNCTIONS = YES;
+				GCC_WARN_UNKNOWN_PRAGMAS = YES;
+				GCC_WARN_UNUSED_PARAMETER = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-fno-inline";
+				PRODUCT_NAME = "Module Tester OSX";
+				REZ_SCRIPT_TYPE = Roman;
+				REZ_SUPPRESS_REDECLARED_RESOURCE_TYPE_WARNINGS = NO;
+			};
+			name = "Imported CodeWarrior Settings";
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		054DB9EA15E41CDC00751C7E /* Build configuration list for PBXProject "PaleoMCMC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				054DB9EB15E41CDC00751C7E /* Imported CodeWarrior Settings */,
+			);
+			defaultConfigurationIsVisible = 1;
+			defaultConfigurationName = "Imported CodeWarrior Settings";
+		};
+		054DB9F915E41CDC00751C7E /* Build configuration list for PBXNativeTarget "PaleoMCMC OSX" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				054DB9FA15E41CDC00751C7E /* Imported CodeWarrior Settings */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Imported CodeWarrior Settings";
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 054DB9E915E41CDC00751C7E /* Project object */;
+}

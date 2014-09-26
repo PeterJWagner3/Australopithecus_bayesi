@@ -1,0 +1,13 @@
+In file included from /Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:2:
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.h:59:1: warning: "RAND_MAX" redefined
+In file included from /Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.h:5,
+                 from /Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:2:
+/usr/include/stdlib.h:121:1: warning: this is the location of the previous definition
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c: In function 'main':
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:82: error: 'maxst' undeclared (first use in this function)
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:82: error: (Each undeclared identifier is reported only once
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:82: error: for each function it appears in.)
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:93: error: 'statelikes' undeclared (first use in this function)
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:134: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:190: warning: format '%d' expects type 'int', but argument 3 has type 'long int'
+/Users/peterwagner/Documents/Projects/PaleoMCMC/PaleoMCMC.c:27: warning: unused variable 'debug'
